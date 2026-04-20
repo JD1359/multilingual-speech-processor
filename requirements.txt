@@ -1,0 +1,5 @@
+gTTS==2.5.1
+SpeechRecognition==3.10.1
+langdetect==1.0.9
+pydub==0.25.1
+pyaudio==0.2.14
